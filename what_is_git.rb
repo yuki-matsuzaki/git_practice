@@ -8,5 +8,9 @@ Class WhatIsGit
 		puts 'Git is easy if you understands basis'
 	end
 
+	def test
+		pust 'test method'
+	end
+
 	
 end
