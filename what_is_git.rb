@@ -7,10 +7,5 @@ Class WhatIsGit
 	def show
 		puts 'Git is easy if you understands basis'
 	end
-
-	def test
-		puts 'test method'
-	end
-
 	
 end
